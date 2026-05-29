@@ -14,12 +14,6 @@ MagicByte Gate is a self-hosted Web Application Firewall (WAF) that filters and 
 ## Quick Install
 
 ```bash
-curl -fsSL https://github.com/MagicByteTeam/magicbyte-gate-package/releases/latest/download/install.sh | sudo bash
-```
-
-Or download and run manually:
-
-```bash
 curl -fsSL -o install.sh https://github.com/MagicByteTeam/magicbyte-gate-package/releases/latest/download/install.sh
 sudo bash install.sh
 ```
